@@ -1,0 +1,11 @@
+Object: Linux user management lab tasks
+1. Create a New User
+Objective:
+Learn how to create a new user on a Linux system.
+
+Task:
+1.	Use the useradd command to create a new user, e.g., john.
+2.	Set a password for the new user using passwd.
+3.	Verify the new user by checking the /etc/passwd file.
+Practical
+1-Use the useradd command to create a new user, e.g., john.
